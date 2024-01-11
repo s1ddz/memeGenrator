@@ -1,0 +1,24 @@
+
+
+.memegen img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    
+}
+.memegen{
+    text-align: center;
+}
+.memegen h1{
+    font-weight: strong;
+}
+body{
+    background-color:rgba(0, 0, 0, 0.726) ;
+}
+.img-fluid{
+    max-height: 500px;
+}
+.mauthor{
+    margin-top: 10px;
+}
